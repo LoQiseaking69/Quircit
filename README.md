@@ -1,5 +1,6 @@
 
 # Advanced Quantum Circuit Visualization
+![QC.png](https://github.com/LoQiseaking69/Quircit/blob/main/QC.PNG)
 
 ## Introduction
 This project provides a Graphical User Interface (GUI) application for visualizing and interacting with quantum circuits. It is designed to offer an intuitive way for users to experiment with quantum gates and observe their effects on quantum states.
