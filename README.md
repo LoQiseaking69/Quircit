@@ -28,7 +28,7 @@ python main.py
 
 ## Contributing
 Contributions to enhance the functionality or improve the application are welcome. Please adhere to the following guidelines:
-- Fork the repository and create your branch from `master`.
+- Fork the repository and create your branch from `main`.
 - Write clear and concise commit messages.
 - Ensure your code adheres to the existing style to maintain consistency.
 - Open a pull request with a detailed description of your changes.
