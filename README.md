@@ -32,6 +32,3 @@ Contributions to enhance the functionality or improve the application are welcom
 - Write clear and concise commit messages.
 - Ensure your code adheres to the existing style to maintain consistency.
 - Open a pull request with a detailed description of your changes.
-
-## License
-This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
